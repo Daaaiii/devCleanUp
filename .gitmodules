@@ -1,0 +1,7 @@
+[submodule "backend-DevCleanUp"]
+	path = backend-DevCleanUp
+	url = https://github.com/Daaaiii/backend-DevCleanUp.git
+
+[submodule "frontend"]
+	path = backend-DevCleanUp
+	url = https://github.com/Daaaiii/frontend.git
