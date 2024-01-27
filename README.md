@@ -1,7 +1,10 @@
+<p align="center">
+<img src='./assets/logo-devclean.png' width="100" style="border-radius: 30%;" alt="Dev Clean Up Logo" >
+</p>
+
 # Dev Clean Up
 
 This project is a small system that allows users to control their clients and check the distance from the company to their houses.
-
 The main page allows the user to register and login on the system, once the user is logged in, he can cread, read, update or delete a client. 
 He also can see the distance between the company to the client's house and define a better route to get to the client based on that.
 
